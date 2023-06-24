@@ -16,7 +16,8 @@ News
 Publication
 ======
 **Prerint**
-Genome-wide nucleotide-resolution model of single-strand break site reveals species evolutionary hierarchy
+------
+Genome-wide nucleotide-resolution model of single-strand break site reveals species evolutionary hierarchy  
 S Xu, J Wei, Y Li
 arXiv preprint arXiv:2208.09813
 
@@ -25,11 +26,12 @@ J Wei, J Xiao, S Chen, L Zong, X Gao, Y Li
 arXiv preprint arXiv:2205.07673
 
 **Peer Review**
-Long-read PacBio genome sequencing of four environmental saprophytic Sporothrix species spanning the pathogenic clade
+------
+Long-read PacBio genome sequencing of four environmental saprophytic Sporothrix species spanning the pathogenic clade  
 W Du, D Giosa, J Wei, L Giuffrè, G Shi, L El Aamri, E D’Alessandro, ...
 BMC genomics 23 (1), 1-12
 
-Low-dose AAV-CRISPR-mediated liver-specific knock-in restored hemostasis in neonatal hemophilia B mice with subtle antibody response
+Low-dose AAV-CRISPR-mediated liver-specific knock-in restored hemostasis in neonatal hemophilia B mice with subtle antibody response  
 X He, Z Zhang, J Xue, Y Wang, S Zhang, J Wei, C Zhang, J Wang, BA Urip, ...
 Nature Communications 13 (1), 7275
 
