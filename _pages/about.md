@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junkang"
+title: "Junkang Wei"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my bachelar degree in Sun Yat-sen University, majoring in Pharmaceutical Sciences. Then I earned my M.phil Degree in The Chinese University of Hong Kong. Recently, I decided to pursue my Ph.D. degree in Department of Computational Medicine and Bioinformatics, PIBS, University of Michigan. 
+I obtained my bachelor degree in Sun Yat-sen University, majoring in Pharmaceutical Sciences. Then I earned my M.Phil Degree in The Chinese University of Hong Kong. Recently, I decided to pursue my Ph.D. degree in Department of Computational Medicine and Bioinformatics, PIBS, University of Michigan. 
 
 News
 ======
