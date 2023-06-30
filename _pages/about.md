@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junkang"
+title: "Junkang Wei"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
