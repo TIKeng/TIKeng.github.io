@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Junkang Wei"
-excerpt: "About me"
+excerpt: "ssdd"
 author_profile: true
 redirect_from: 
   - /about/
