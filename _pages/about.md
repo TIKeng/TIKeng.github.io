@@ -13,7 +13,7 @@ I have concluded my undergraduate academic endeavors at Sun Yat-sen University w
 News
 ======
 
-* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__!
+* 🎉January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__!
 
 Publication
 ======  
