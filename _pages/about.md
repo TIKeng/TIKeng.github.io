@@ -28,15 +28,15 @@ __Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. arXiv pre
 Peer Review
 ------
 * SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
-Sheng Xu*, __Junkang Wei*#__, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#.  __Genome Biology__ (Accepted), 2024.
-[Preprint](https://arxiv.org/abs/2208.09813)[Server](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/#/home)[Code](https://github.com/sxu99/ssblazer)
+Sheng Xu*, __Junkang Wei*#__, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#.  __Genome Biology__ (Accepted), 2024.  
+\[[Preprint](https://arxiv.org/abs/2208.09813)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/#/home)\]\[[Code](https://github.com/sxu99/ssblazer)\]
 
 * Long-read PacBio genome sequencing of four environmental saprophytic Sporothrix species spanning the pathogenic clade  
-Weian Du, Domenico Giosa, __Junkang Wei*__, Letterio Giuffrè, Ge Shi, ...,  __BMC Genomics__, 2022.
+Weian Du, Domenico Giosa, __Junkang Wei*__, Letterio Giuffrè, Ge Shi, ...,  __BMC Genomics__, 2022.  
 [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08736-w)
 
 * Low-dose AAV-CRISPR-mediated liver-specific knock-in restored hemostasis in neonatal hemophilia B mice with subtle antibody response  
-Xiangjun He, Zhenjie Zhang, Junyi Xue, Yaofeng Wang, Siqi Zhang, __Junkang Wei__, ..., __Nature Communications__, 2022.
+Xiangjun He, Zhenjie Zhang, Junyi Xue, Yaofeng Wang, Siqi Zhang, __Junkang Wei__, ..., __Nature Communications__, 2022.  
 [Paper](https://www.nature.com/articles/s41467-022-34898-y)
 
 * Identification of a binding site on soluble RANKL that can be targeted to inhibit soluble RANK-RANKL interactions and treat osteoporosis  
