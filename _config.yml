@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junkang Wei"
+title                    : "Page"
 title_separator          : "-"
 name                     : &name "Junkang Wei"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0qj43wcAAAAJ&hl=zh-CN"
-  email            :
+  email            : "weijk@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

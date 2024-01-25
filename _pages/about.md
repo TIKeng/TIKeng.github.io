@@ -14,7 +14,7 @@ News
 ======
 
 * January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉 
-* September 2023, begin PhD study at DCMB, University of Michigan
+* September 2023, begin PhD study at DCMB, University of Michigan.
 
 Publication
 ======  
