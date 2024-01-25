@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junkang Wei"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,7 +28,7 @@ arXiv preprint arXiv:2205.07673
 
 Peer Review
 ------
-Genome-wide nucleotide-resolution model of single-strand break site reveals species evolutionary hierarchy  
+SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
 S Xu*, __J Wei*#__, S Sun, J Zhang, TF Chan, Y Li#. Genome Biology (Accepted), 2024.
 
 Long-read PacBio genome sequencing of four environmental saprophytic Sporothrix species spanning the pathogenic clade  
