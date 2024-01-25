@@ -23,8 +23,7 @@ Publication
 Preprint
 ------
 * ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
-J Wei, J Xiao, S Chen, L Zong, X Gao, Y Li  
-arXiv preprint arXiv:2205.07673
+J Wei, J Xiao, S Chen, L Zong, X Gao, Y Li  arXiv preprint arXiv:2205.07673
 
 Peer Review
 ------
