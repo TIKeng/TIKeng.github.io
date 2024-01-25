@@ -8,24 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my MPhil degree from The Chinese University of Hong Kong. Currently, I am pursuing a PhD in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. In my leisure time, I enjoy playing bridge and sports. 
+I am a PhD student in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my MPhil degree from The Chinese University of Hong Kong. In my leisure time, I enjoy playing bridge and sports. 
 
 News
 ======
 
-* 🎉January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__!
+* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉 
+* September 2023, begin PhD study at DCMB, University of Michigan
 
 Publication
 ======  
 (*equal contribution, #corresponding)
 
-**Preprint**
+Preprint
 ------
 ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
 J Wei, J Xiao, S Chen, L Zong, X Gao, Y Li  
 arXiv preprint arXiv:2205.07673
 
-**Peer Review**
+Peer Review
 ------
 Genome-wide nucleotide-resolution model of single-strand break site reveals species evolutionary hierarchy  
 S Xu*, __J Wei*#__, S Sun, J Zhang, TF Chan, Y Li#. Genome Biology (Accepted), 2024.
