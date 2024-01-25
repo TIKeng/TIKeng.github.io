@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Junkang"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -31,7 +31,7 @@ Peer Review
 S Xu*, __J Wei*#__, S Sun, J Zhang, TF Chan, Y Li#. __Genome Biology__ (Accepted), 2024.
 
 * Long-read PacBio genome sequencing of four environmental saprophytic Sporothrix species spanning the pathogenic clade  
-W Du, D Giosa, __J Wei__, L Giuffrè, G Shi, L El Aamri, E D’Alessandro, ...  __BMC genomics__ 23 (1), 1-12
+W Du, D Giosa, __J Wei__, L Giuffrè, G Shi, L El Aamri, E D’Alessandro, ...  __BMC Genomics__ 23 (1), 1-12
 
 * Low-dose AAV-CRISPR-mediated liver-specific knock-in restored hemostasis in neonatal hemophilia B mice with subtle antibody response  
 X He, Z Zhang, J Xue, Y Wang, S Zhang, __J Wei__, C Zhang, J Wang, BA Urip, ...  __Nature Communications__ 13 (1), 7275
