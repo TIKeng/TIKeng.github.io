@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my bachelor degree in Sun Yat-sen University, majoring in Pharmaceutical Sciences. Then I earned my M.phil Degree in The Chinese University of Hong Kong. Recently, I decided to pursue my Ph.D. degree in Department of Computational Medicine and Bioinformatics, PIBS, University of Michigan. 
+I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my M.Phil degree from The Chinese University of Hong Kong. Currently, I am pursuing a Doctorate in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. In my leisure time, I enjoy playing bridge and sports. 
 
 News
 ======
@@ -16,8 +16,8 @@ News
 * January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__!
 
 Publication
-(*equal contribution, #corresponding)
 ======  
+(*equal contribution, #corresponding)
 
 **Preprint**
 ------
