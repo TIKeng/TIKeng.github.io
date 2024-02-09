@@ -14,12 +14,15 @@ News
 ======
 
 * February 2024, [ProNet DB](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/) is accepted by __Database__!  
-* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉 
-* September 2023, begin Ph.D. study at DCMB, University of Michigan.
+* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉   
+* September 2023, begin Ph.D. study at DCMB, University of Michigan.  
 
 Publication
 ======  
 (*equal contribution, #corresponding)
+
+Peer Review
+------
 
 * ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
 __Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Database__ (Accepted), 2024.
