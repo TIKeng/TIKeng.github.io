@@ -8,14 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+<<<<<<< HEAD
 I am a Ph.D. student in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S. degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my M.Phil. degree from The Chinese University of Hong Kong. In my leisure time, I enjoy playing bridge and sports. 
+=======
+This is Junkang. I obtained my bachelar degree in Sun Yat-sen University, majoring in Pharmaceutical Sciences. Then I earned my Mphil Degree in The Chinese University of Hong Kong. Recently, I decided to pursue my PhD degree in University of Michigan. 
+>>>>>>> parent of a44363a (Update about.md)
 
 News
 ======
 
+<<<<<<< HEAD
 * January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉 
 * September 2023, begin Ph.D. study at DCMB, University of Michigan.
 
+=======
+>>>>>>> parent of a44363a (Update about.md)
 Publication
 ======  
 (*equal contribution, #corresponding)
@@ -45,7 +52,7 @@ Dane Huang, Chao Zhao, Ruyue Li, Bingyi Chen, Yuting Zhang, Zhejun Sun, __Junkan
 \[[Paper](https://www.nature.com/articles/s41467-022-33006-4)\]
 
 * Structure-based discovery and structural basis of a novel broad-spectrum natural product against the main protease of coronavirus  
-Yuting Zhang, Hongxia Gao, Xiaohui Hu, Qisheng Wang, Fanglin Zhong, Xuelan Zhou, Cheng Lin, Yang Yang, __Junkang Wei__, ...,  __Journal of Virology__, 2022.  
+Yuting Zhang, Hongxia Gao, Xiaohui Hu, Qisheng Wang, Fanglin Zhong, Xuelan Zhou, Cheng Lin, Yang Yang, __Junkang Wei__, ...,  __Journal of virology__, 2022.  
 \[[Paper](https://journals.asm.org/doi/full/10.1128/jvi.01253-21)\]
 
 * Protein–RNA interaction prediction with deep learning: structure matters  
@@ -57,11 +64,11 @@ H Zhang, __J Wei__, Z Liu, X Liu, Y Chong, Y Lu, H Zhao, Y Yang.  __IEEE Interna
 \[[Paper](https://ieeexplore.ieee.org/document/9669388)\]
 
 * Discovery of new LXRβ agonists as glioblastoma inhibitors  
-Hao Chen, Ziyang Chen, Zizhen Zhang, Yali Li, Shushu Zhang, Fuqiang Jiang, __Junkang Wei__, ...,  __European Journal of Medicinal Chemistry__, 2020.  
+Hao Chen, Ziyang Chen, Zizhen Zhang, Yali Li, Shushu Zhang, Fuqiang Jiang, __Junkang Wei__, ...,  __European journal of medicinal chemistry__, 2020.  
 \[[Paper](https://www.sciencedirect.com/science/article/pii/S0223523420302075)\]
 
 * Discovery of tissue selective liver X receptor agonists for the treatment of atherosclerosis without causing hepatic lipogenesis  
-Chanjuan Li, Hao Chen, Xinying Chen, Yanwen Li, Pei Hua, __Junkang Wei__, ...,  __European Journal of Medicinal Chemistry__, 2019.  
+Chanjuan Li, Hao Chen, Xinying Chen, Yanwen Li, Pei Hua, __Junkang Wei__, ...,  __European journal of medicinal chemistry__, 2019.  
 \[[Paper](https://www.sciencedirect.com/science/article/pii/S0223523419307871)\]
 
 * Chemical constituents from Daphne tangutica and their cytotoxicity against nasopharyngeal carcinoma cells  
