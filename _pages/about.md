@@ -18,8 +18,17 @@ News
 
 Publication
 ======  
+
 (*equal contribution, #corresponding)
 
+Preprint
+------
+* ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
+__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. arXiv preprint arXiv:2205.07673  
+\[[Preprint](https://arxiv.org/abs/2205.07673)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
+
+Peer Review
+------
 * SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
 Sheng Xu*, __Junkang Wei*#__, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#.  __Genome Biology__ (Accepted), 2024.  
 \[[Preprint](https://arxiv.org/abs/2208.09813)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/#/home)\]\[[Code](https://github.com/sxu99/ssblazer)\]
