@@ -8,43 +8,64 @@ redirect_from:
   - /about.html
 ---
 
+I am a Ph.D. student in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S. degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my M.Phil. degree from The Chinese University of Hong Kong. In my leisure time, I enjoy playing bridge and sports. 
 
-Sheng Xu is currently a PhD student at [Fudan University](https://www.fudan.edu.cn/en/), advised by [Prof. Siqi Sun](https://intersun.github.io/). Before that, he obtained his masters degree at the Department of Computer Science and Engineering ([CSE](https://www.cse.cuhk.edu.hk/)) at the Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)), supervised by [Prof. Yu Li](https://liyu95.com/). He did his bachelors at East China Normal University ([ECNU](https://english.ecnu.edu.cn/)), advised by Prof. Qin Li.
-
-Recent News
+News
 ======
-- January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by **Genome Biology (IF=12.3)**🎉!
-- December 2023, two papers are accepted by AAAI-24🎉!
-- September 2023, begin Ph.D. study at IICS, Fudan University.
+* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉  
+* September 2023, begin Ph.D. study at DCMB, University of Michigan.
 
-Research Interests
-======
-My research is centered on the integration of artificial intelligence with molecular biology. Specifically, I focus on the study of RNA-protein interaction, noncoding RNA and precision medicine like T cell therapy. My objective is to leverage the power of AI to better understand these complex biological phenomena and to develop innovative, tailored therapeutics for disease treatment.
+Publication
+======  
+(*equal contribution, #corresponding)
+Preprint
+------
+* ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
+__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Database__ (Accepted), 2024.
+\[[Preprint](https://arxiv.org/abs/2205.07673)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
 
-Publications 
-======
-(\*equal contribution, #corresponding)
-    
-- 	**SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites**  
-    **Sheng Xu\***, Junkang Wei\*#, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#. ***Genome Biology (Accepted)***, 2024.  
-    \[[Preprint](https://arxiv.org/abs/2208.09813)\] \[[Server](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/)\] \[[Code](https://github.com/sxu99/ssblazer)\]
+Peer Review
+------
+* SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
+Sheng Xu*, __Junkang Wei*#__, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#.  __Genome Biology__ (Accepted), 2024.  
+\[[Preprint](https://arxiv.org/abs/2208.09813)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/#/home)\]\[[Code](https://github.com/sxu99/ssblazer)\]
 
-- 	**CrossBind: Collaborative Cross-Modal Identification of Protein Nucleic-Acid-Binding Residues**  
-    Linglin Jing\*, **Sheng Xu\***, Yifan Wang, Yuzhe Zhou, Tao Shen, Zhigang Ji, Hui Fang, Zhen Li#, Siqi Sun#. ***AAAI-24 (Accepted)***, 2023.  
-    \[[Preprint](https://arxiv.org/abs/2312.12094)\]  \[[Code](https://github.com/BEAM-Labs/CrossBind)\]
+* Long-read PacBio genome sequencing of four environmental saprophytic Sporothrix species spanning the pathogenic clade  
+Weian Du, Domenico Giosa, __Junkang Wei*__, Letterio Giuffrè, Ge Shi, ...,  __BMC Genomics__, 2022.  
+\[[Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08736-w)\]
 
-- 	**ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**  
-    Zhi Jin\*, **Sheng Xu\***, Xiang Zhang\*, Tianze Ling, Nanqing Dong, Wanli Ouyang#, Zhiqiang Gao#, Cheng Chang#, Siqi Sun#. ***AAAI-24 (Accepted)***, 2023.  
-    \[[Preprint](https://arxiv.org/abs/2312.11584)\]  \[[Code](https://github.com/BEAM-Labs/ContraNovo)\]
+* Low-dose AAV-CRISPR-mediated liver-specific knock-in restored hemostasis in neonatal hemophilia B mice with subtle antibody response  
+Xiangjun He, Zhenjie Zhang, Junyi Xue, Yaofeng Wang, Siqi Zhang, __Junkang Wei__, ..., __Nature Communications__, 2022.  
+\[[Paper](https://www.nature.com/articles/s41467-022-34898-y)\]
 
-- 	**Accurate Prediction of Antibody Function and Structure Using Bio-Inspired Antibody Language Model**  
-    Hongtai Jing\*, Zhengtao Gao\*, **Sheng Xu**, Tao Shen, Zhangzhi Peng, Shwai He, Tao You, Shuang Ye#, Wei Lin#, Siqi Sun#. ***arXiv Preprint***, 2023.  
-    \[[Preprint](https://arxiv.org/abs/2308.16713)\] 
+* Identification of a binding site on soluble RANKL that can be targeted to inhibit soluble RANK-RANKL interactions and treat osteoporosis  
+Dane Huang, Chao Zhao, Ruyue Li, Bingyi Chen, Yuting Zhang, Zhejun Sun, __Junkang Wei__, ...,  __Nature Communications__, 2022.  
+\[[Paper](https://www.nature.com/articles/s41467-022-33006-4)\]
 
-- 	**AF2-Mutation: Adversarial Sequence Mutations against AlphaFold2 on Protein Tertiary Structure Prediction**  
-    Zhongju Yuan, Tao Shen, **Sheng Xu**, Leiye Yu, Ruobing Ren#, Siqi Sun#. ***arXiv Preprint***, 2023.  
-    \[[Preprint](https://arxiv.org/abs/2305.08929)\] 
+* Structure-based discovery and structural basis of a novel broad-spectrum natural product against the main protease of coronavirus  
+Yuting Zhang, Hongxia Gao, Xiaohui Hu, Qisheng Wang, Fanglin Zhong, Xuelan Zhou, Cheng Lin, Yang Yang, __Junkang Wei__, ...,  __Journal of Virology__, 2022.  
+\[[Paper](https://journals.asm.org/doi/full/10.1128/jvi.01253-21)\]
 
--   **AcrNET: Predicting Anti-CRISPR with Deep Learning**  
-    Yunxiang Li\*, Yumeng Wei\*, **Sheng Xu**, Qingxiong Tan, Licheng Zong, Jiuming Wang, Yixuan Wang, Jiayang Chen, Liang Hong, Yu Li#. ***Bioinformatics***, 2023.  
-    \[[Paper](https://doi.org/10.1093/bioinformatics/btad259)\] \[[Server](https://proj.cse.cuhk.edu.hk/aihlab/acrnet/)\] \[[Code](https://github.com/banma12956/AcrNET)\]
+* Protein–RNA interaction prediction with deep learning: structure matters  
+__Junkang Wei*__, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li, __Briefings in Bioinformatics__, 2022.  
+\[[Paper](https://academic.oup.com/bib/article/23/1/bbab540/6470965)\]
+
+* DGAT-onco: A differential analysis method to detect oncogenes by integrating functional information of mutations  
+H Zhang, __J Wei__, Z Liu, X Liu, Y Chong, Y Lu, H Zhao, Y Yang.  __IEEE International Conference on Bioinformatics and Biomedicine__, 2021.  
+\[[Paper](https://ieeexplore.ieee.org/document/9669388)\]
+
+* Discovery of new LXRβ agonists as glioblastoma inhibitors  
+Hao Chen, Ziyang Chen, Zizhen Zhang, Yali Li, Shushu Zhang, Fuqiang Jiang, __Junkang Wei__, ...,  __European Journal of Medicinal Chemistry__, 2020.  
+\[[Paper](https://www.sciencedirect.com/science/article/pii/S0223523420302075)\]
+
+* Discovery of tissue selective liver X receptor agonists for the treatment of atherosclerosis without causing hepatic lipogenesis  
+Chanjuan Li, Hao Chen, Xinying Chen, Yanwen Li, Pei Hua, __Junkang Wei__, ...,  __European Journal of Medicinal Chemistry__, 2019.  
+\[[Paper](https://www.sciencedirect.com/science/article/pii/S0223523419307871)\]
+
+* Chemical constituents from Daphne tangutica and their cytotoxicity against nasopharyngeal carcinoma cells  
+Zhiong Yin, Yanfang Cheng, __Junkang Wei__, Xiangkun Luo, ...,  __Fitoterapia__, 2018.  
+\[[Paper](https://www.sciencedirect.com/science/article/pii/S0367326X18311365?via%3Dihub)\]
+
+Last update: Jan 2024
+<!-- Honors and awards
+------ -->
