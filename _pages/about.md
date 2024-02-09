@@ -69,5 +69,3 @@ Zhiong Yin, Yanfang Cheng, __Junkang Wei__, Xiangkun Luo, ...,  __Fitoterapia__,
 Last update: Jan 2024
 <!-- Honors and awards
 ------ -->
-
-
