@@ -13,7 +13,7 @@ I am a Ph.D. student in the Department of Computational Medicine and Bioinformat
 News
 ======
 
-* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉   
+* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted2 by __Genome Biology__! 🎉   
 * September 2023, begin Ph.D. study at DCMB, University of Michigan.  
 
 Publication
