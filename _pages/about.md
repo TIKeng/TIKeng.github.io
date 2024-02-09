@@ -13,22 +13,18 @@ I am a Ph.D. student in the Department of Computational Medicine and Bioinformat
 News
 ======
 
-* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted2 by __Genome Biology__! 🎉   
-* September 2023, begin Ph.D. study at DCMB, University of Michigan.  
+* February 2024, [ProNet DB](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/) is accepted by __Database__!  
+* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉  
+* September 2023, begin Ph.D. study at DCMB, University of Michigan.
 
 Publication
 ======  
-
 (*equal contribution, #corresponding)
 
-Preprint
-------
 * ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
-__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. arXiv preprint arXiv:2205.07673  
+__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Database__ (Accepted), 2024.  
 \[[Preprint](https://arxiv.org/abs/2205.07673)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
 
-Peer Review
-------
 * SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
 Sheng Xu*, __Junkang Wei*#__, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#.  __Genome Biology__ (Accepted), 2024.  
 \[[Preprint](https://arxiv.org/abs/2208.09813)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/#/home)\]\[[Code](https://github.com/sxu99/ssblazer)\]
