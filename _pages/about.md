@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Junkang Wei"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,16 +12,18 @@ I am a Ph.D. student in the Department of Computational Medicine and Bioinformat
 
 News
 ======
-* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉  
+
+* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉 
 * September 2023, begin Ph.D. study at DCMB, University of Michigan.
 
 Publication
 ======  
 (*equal contribution, #corresponding)
+
 Preprint
 ------
 * ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
-__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Database__ (Accepted), 2024.
+__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. arXiv preprint arXiv:2205.07673  
 \[[Preprint](https://arxiv.org/abs/2205.07673)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
 
 Peer Review
@@ -69,3 +71,5 @@ Zhiong Yin, Yanfang Cheng, __Junkang Wei__, Xiangkun Luo, ...,  __Fitoterapia__,
 Last update: Jan 2024
 <!-- Honors and awards
 ------ -->
+
+
