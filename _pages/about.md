@@ -8,21 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<<<<<<< HEAD
 I am a Ph.D. student in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S. degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my M.Phil. degree from The Chinese University of Hong Kong. In my leisure time, I enjoy playing bridge and sports. 
-=======
-This is Junkang. I obtained my bachelar degree in Sun Yat-sen University, majoring in Pharmaceutical Sciences. Then I earned my Mphil Degree in The Chinese University of Hong Kong. Recently, I decided to pursue my PhD degree in University of Michigan. 
->>>>>>> parent of a44363a (Update about.md)
 
-News
-======
-
-<<<<<<< HEAD
-* January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉 
-* September 2023, begin Ph.D. study at DCMB, University of Michigan.
-
-=======
->>>>>>> parent of a44363a (Update about.md)
 Publication
 ======  
 (*equal contribution, #corresponding)
