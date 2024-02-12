@@ -25,7 +25,7 @@ __Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Databas
 \[[Preprint](https://arxiv.org/abs/2205.07673)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
 
 * SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
-Sheng Xu*, __Junkang Wei*#__, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#.  __Genome Biology__ (Accepted), 2024.  
+Sheng Xu*, __Junkang Wei*#__, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#.  __Genome Biology__, 2024.  
 \[[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03179-w)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/#/home)\]\[[Code](https://github.com/sxu99/ssblazer)\]
 
 * Long-read PacBio genome sequencing of four environmental saprophytic Sporothrix species spanning the pathogenic clade  
