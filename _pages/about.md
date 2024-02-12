@@ -21,7 +21,7 @@ Publication
 (*equal contribution, #corresponding)
 
 * ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
-__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Database__ (Accepted), 2024.
+__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Database__ (Accepted), 2024.  
 \[[Preprint](https://arxiv.org/abs/2205.07673)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
 
 * SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
