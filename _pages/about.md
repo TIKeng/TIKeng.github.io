@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S. degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my M.Phil. degree from The Chinese University of Hong Kong. In my leisure time, I enjoy playing bridge and 1sports. 
+I am a Ph.D. student in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S. degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my M.Phil. degree from The Chinese University of Hong Kong. In my leisure time, I enjoy playing bridge and sports. 
 
 News
 ======
