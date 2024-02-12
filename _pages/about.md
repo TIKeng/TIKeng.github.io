@@ -64,7 +64,7 @@ Chanjuan Li, Hao Chen, Xinying Chen, Yanwen Li, Pei Hua, __Junkang Wei__, ...,  
 Zhiong Yin, Yanfang Cheng, __Junkang Wei__, Xiangkun Luo, ...,  __Fitoterapia__, 2018.  
 \[[Paper](https://www.sciencedirect.com/science/article/pii/S0367326X18311365?via%3Dihub)\]
 
-Last update: Jan 2024
+Last update: Feb 2024
 <!-- Honors and awards
 ------ -->
 
