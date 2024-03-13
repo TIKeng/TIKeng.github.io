@@ -12,6 +12,7 @@ I am a Ph.D. student in the Department of Computational Medicine and Bioinformat
 News
 ======
 
+* March 2024, I completed the rotation and joined in [Alexey Nesvizhskii](https://www.nesvilab.org/team.html)'s lab. 🚀
 * February 2024, [ProNet DB](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/) is accepted by __Database__! 🧨 
 * January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉 
 * September 2023, begin Ph.D. study at DCMB, University of Michigan.
