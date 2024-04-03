@@ -23,7 +23,7 @@ Publication
 
 * ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
 __Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Database__ (Accepted), 2024.  
-\[[Preprint](https://arxiv.org/abs/2205.07673)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
+\[[Paper](https://academic.oup.com/database/article/doi/10.1093/database/baae012/7638743?login=true)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
 
 * SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
 Sheng Xu*, __Junkang Wei*#__, Siqi Sun, Jizhou Zhang, Ting-Fung Chan, Yu Li#.  __Genome Biology__, 2024.  
@@ -65,7 +65,7 @@ Chanjuan Li, Hao Chen, Xinying Chen, Yanwen Li, Pei Hua, __Junkang Wei__, ...,  
 Zhiong Yin, Yanfang Cheng, __Junkang Wei__, Xiangkun Luo, ...,  __Fitoterapia__, 2018.  
 \[[Paper](https://www.sciencedirect.com/science/article/pii/S0367326X18311365?via%3Dihub)\]
 
-Last update: Feb 2024
+Last update: Apr 2024
 <!-- Honors and awards
 ------ -->
 
