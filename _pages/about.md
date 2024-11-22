@@ -23,7 +23,7 @@ Publication
 (*equal contribution, #corresponding)
 
 * RTM-align: an improved RNA alignment tool with enhanced short sequence performance via post-standardization and fragment alignment  
-Zijie Qiu*, Sheng Xu*, __Junkang Wei__, Tao Shen, Siqi Sun#. bioRxiv Preprint, 2024.
+Zijie Qiu*, Sheng Xu*, __Junkang Wei__, Tao Shen, Siqi Sun#. bioRxiv Preprint, 2024.  
 \[[Paper](https://www.biorxiv.org/content/10.1101/2024.05.27.595311v1)\]
 
 
