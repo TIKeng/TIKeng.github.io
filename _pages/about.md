@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S. degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my M.Phil. degree from The Chinese University of Hong Kong. In my leisure time, I enjoy playing bridge and sports. 
+I am a Ph.D. candidate in the Department of Computational Medicine and Bioinformatics ([DCMB](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)) at the University of Michigan. I have concluded my undergraduate academic endeavors at Sun Yat-sen University with a B.S. degree, majoring in Pharmaceutical Sciences. Subsequently, I obtained my M.Phil. degree from The Chinese University of Hong Kong. In my leisure time, I enjoy playing bridge and sports. 
 
 News
 ======
 
+* November 2024, I passed preliminary examination, now I am a Ph.D. candidate. 🐛
 * March 2024, I completed the rotation and joined in [Alexey Nesvizhskii](https://www.nesvilab.org/team.html)'s lab. 🚀
 * February 2024, [ProNet DB](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/) is accepted by __Database__! 🧨 
 * January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉 
@@ -21,8 +22,13 @@ Publication
 ======  
 (*equal contribution, #corresponding)
 
+* RTM-align: an improved RNA alignment tool with enhanced short sequence performance via post-standardization and fragment alignment  
+Zijie Qiu*, Sheng Xu*, __Junkang Wei__, Tao Shen, Siqi Sun#. bioRxiv Preprint, 2024.
+\[[Paper](https://www.biorxiv.org/content/10.1101/2024.05.27.595311v1)\]
+
+
 * ProNet DB: A proteome-wise database for protein surface property representations and RNA-binding profiles  
-__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li. __Database__, 2024.  
+__Junkang Wei*__, Jin Xiao, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li#. __Database__, 2024.  
 \[[Paper](https://academic.oup.com/database/article/doi/10.1093/database/baae012/7638743?login=true)\]\[[Server](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/)\]\[[Code](https://github.com/jxmelody/PronetProcess)\]
 
 * SSBlazer: A genome-wide nucleotide-resolution model for predicting single-strand break sites  
@@ -65,7 +71,7 @@ Chanjuan Li, Hao Chen, Xinying Chen, Yanwen Li, Pei Hua, __Junkang Wei__, ...,  
 Zhiong Yin, Yanfang Cheng, __Junkang Wei__, Xiangkun Luo, ...,  __Fitoterapia__, 2018.  
 \[[Paper](https://www.sciencedirect.com/science/article/pii/S0367326X18311365?via%3Dihub)\]
 
-Last update: Apr 2024
+Last update: Nov 2024
 <!-- Honors and awards
 ------ -->
 
