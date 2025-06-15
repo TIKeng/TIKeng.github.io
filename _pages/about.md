@@ -76,7 +76,7 @@ Conference
 ======  
 
 * Improving De Novo Sequencing with Mass Errors and Retention Time Information  
-Junkang Wei, Fengchao Yu, Alexey Nesvizhskii. ASMS, 2025, Baltimore. 
+__Junkang Wei__, Fengchao Yu, Alexey Nesvizhskii. __ASMS__, 2025, Baltimore. 
 
 Academic services 
 ======
