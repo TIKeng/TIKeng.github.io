@@ -12,6 +12,7 @@ I am a Ph.D. candidate in the Department of Computational Medicine and Bioinform
 News
 ======
 
+* June 2025, I presented a poster on de novo sequencing project at the ASMS conference.
 * November 2024, I passed preliminary examination, now I am a Ph.D. candidate. 🐛
 * March 2024, I completed the rotation and joined in [Alexey Nesvizhskii](https://www.nesvilab.org/team.html)'s lab. 🚀
 * February 2024, [ProNet DB](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/) is accepted by __Database__! 🧨 
@@ -71,7 +72,18 @@ Chanjuan Li, Hao Chen, Xinying Chen, Yanwen Li, Pei Hua, __Junkang Wei__, ...,  
 Zhiong Yin, Yanfang Cheng, __Junkang Wei__, Xiangkun Luo, ...,  __Fitoterapia__, 2018.  
 \[[Paper](https://www.sciencedirect.com/science/article/pii/S0367326X18311365?via%3Dihub)\]
 
-Last update: Nov 2024
+Conference
+======  
+
+* Improving De Novo Sequencing with Mass Errors and Retention Time Information  
+Junkang Wei, Fengchao Yu, Alexey Nesvizhskii. ASMS, 2025, Baltimore. 
+
+Academic services 
+======
+
+Reviewer for Patterns, Briefings in Bioinformatics et al. 
+
+Last update: Jun 2025
 <!-- Honors and awards
 ------ -->
 
