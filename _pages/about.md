@@ -17,25 +17,20 @@ News
 * June 2025, I presented a poster on de novo sequencing project at the ASMS conference.
 * November 2024, I passed preliminary examination, now I am a Ph.D. candidate. 🐛
 * March 2024, I completed the rotation and joined in [Alexey Nesvizhskii](https://www.nesvilab.org/team.html)'s lab. 🚀
-<details>
-<summary>Earlier news (2023–2024)</summary>
-
 * February 2024, [ProNet DB](https://proj.cse.cuhk.edu.hk/aihlab/pronet/#/) is accepted by __Database__! 🧨  
 * January 2024, [SSBlazer](https://proj.cse.cuhk.edu.hk/aihlab/ssblazer/) is accepted by __Genome Biology__! 🎉  
 * September 2023, begin Ph.D. study at DCMB, University of Michigan.  
-
-</details>
 
 
 Publication
 ======  
 (*equal contribution, #corresponding)
 
-* Driving Accurate Allergen Prediction with Protein Language Models and Generalization-Focused Evaluation
+* Driving Accurate Allergen Prediction with Protein Language Models and Generalization-Focused Evaluation  
 Brian Shing-Hei Wong, Joshua Mincheol Kim, Sin-Hang Fung, Qing Xiong, Kelvin Fu-Kiu Ao, __Junkang Wei__, Ran Wang, Dan Michelle Wang, Jingying Zhou, Bo Feng, Alfred Sze-Lok Cheng, Kevin Y Yip, Stephen Kwok-Wing Tsui, Qin Cao. arXiv Preprint, 2025.  
 \[[Paper](https://arxiv.org/abs/2508.10541)\]
 
-* Spatial-temporal radiogenomics in predicting neoadjuvant chemotherapy efficacy for breast cancer: a comprehensive review
+* Spatial-temporal radiogenomics in predicting neoadjuvant chemotherapy efficacy for breast cancer: a comprehensive review  
 Tingfeng Zhang, Liang Zhao, Tingting Cui, Yi Zhou, Peifen Li, Chuqiao Luo, __Junkang Wei#__, Hong Hu. Journal of Translational Medicine, 2025.  
 \[[Paper](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-025-06641-w)\]
 
