@@ -13,7 +13,7 @@ News
 ======
 
 * September 2025, our mass spectrometry project was awarded by the NVIDIA Academic Grant Program.
-* September 2025, I am honored to be selected as a 2025–2026 [MICDE Fellow](https://micde.umich.edu/academic-programs/fellowships/fellowship-directory/). 
+* September 2025, I am honored to be selected as a 2025–2026 [MICDE Fellow](https://micde.umich.edu/member/junkang-wei-2/). 
 * June 2025, I presented a poster on de novo sequencing project at the ASMS conference.
 * November 2024, I passed preliminary examination, now I am a Ph.D. candidate. 🐛
 * March 2024, I completed the rotation and joined in [Alexey Nesvizhskii](https://www.nesvilab.org/team.html)'s lab. 🚀
